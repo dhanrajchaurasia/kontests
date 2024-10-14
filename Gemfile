@@ -23,11 +23,10 @@ gem 'rails-timeago', '~> 2.16'
 gem 'google-analytics-rails', '1.1.1'
 # Use rack-cors
 gem 'rack-cors', :require => 'rack/cors'
-# Use Nokogiri for crawling
-gem 'nokogiri', '>= 1.10.4'
 
-# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 6.0'
+gem 'nokogiri', '>= 1.13'
+
+gem 'rails', '~> 7.0'  # Or your preferred version
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
 gem 'webpacker'
 # Use pg as the database for Active Record
