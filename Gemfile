@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| 'https://github.com/#{repo}.git' }
 
-ruby '2.6.10'
+ruby '3.1.0'
 
 # Use FontAwesome as default font icon
 gem 'font-awesome-sass', '~> 5.0.13'
