@@ -1,5 +1,5 @@
 module EmojiHelper
-  def emojify(content, **options)
-    Twemoji.parse(h(content), options).html_safe if content.present?
+  def emojify(content)
+    Twemoji.parse(h(content)).html_safe if content.present?
   end
 end

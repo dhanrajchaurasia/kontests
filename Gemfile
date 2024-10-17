@@ -27,7 +27,7 @@ gem 'rails', '~> 7.0'
 gem 'nokogiri', '>= 1.13'
 
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
-gem 'webpacker'
+gem 'webpacker', '~> 5.0' # or the latest version compatible with your Rails version
 # Use pg as the database for Active Record
 gem 'pg'
 # Use Puma as the app server
