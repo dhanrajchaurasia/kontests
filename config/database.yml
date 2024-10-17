@@ -11,8 +11,8 @@ default: &default
 
 development:
   <<: *default
-  # database: db/development.sqlite3
-  url: postgres://postgres:KmVemwiMmRcqQlzaomGctrIvMIPFzsBu@autorack.proxy.rlwy.net:58948/railway
+  database: db/development.sqlite3
+  # url: postgres://postgres:KmVemwiMmRcqQlzaomGctrIvMIPFzsBu@autorack.proxy.rlwy.net:58948/railway
 
 
 # Warning: The database defined as "test" will be erased and
