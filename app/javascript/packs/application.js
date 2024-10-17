@@ -16,6 +16,8 @@
 // const imagePath = (name) => images(name, true)
 
 import '../stylesheets/application'
+import '../stylesheets/application.scss'; // or application.css
+
 
 require('@rails/ujs').start();
 require('turbolinks').start();
