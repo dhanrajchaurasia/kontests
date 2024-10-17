@@ -11,7 +11,9 @@ default: &default
 
 development:
   <<: *default
-  database: db/development.sqlite3
+  # database: db/development.sqlite3
+  url: postgres://postgres:KmVemwiMmRcqQlzaomGctrIvMIPFzsBu@autorack.proxy.rlwy.net:58948/railway
+
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
@@ -22,10 +24,4 @@ test:
 
 production:
   <<: *default
-  adapter: postgresql
-  encoding: unicode
-  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
-  database: railway
-  username: postgres
-  password: KmVemwiMmRcqQlzaomGctrIvMIPFzsBu
-  host: postgres.railway.internal
+  url: postgres://postgres:KmVemwiMmRcqQlzaomGctrIvMIPFzsBu@autorack.proxy.rlwy.net:58948/railway
