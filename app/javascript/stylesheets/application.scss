@@ -1,2 +1,4 @@
 @use "bootstrap";
-@import "datatables.net-bs4/css/dataTables.bootstrap4.css";
+
+// For DataTables CSS (either imported via Webpack or directly in SCSS)
+@import url("datatables.net-bs4/css/dataTables.bootstrap4.css");
