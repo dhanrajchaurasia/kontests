@@ -5434,72 +5434,72 @@ readers do not read off random characters that represent icons */
   width: auto;
 }
 
-/* line 21, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 20, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 * {
   outline: none !important;
 }
 
-/* line 25, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 24, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 html, body {
   height: 100%;
 }
 
-/* line 29, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 28, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body {
   display: flex;
   flex-direction: column;
   padding-top: 75px;
 }
 
-/* line 35, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 34, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 #content {
   flex: 1 0 auto;
 }
 
-/* line 39, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 38, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 #footer {
   flex: 0 0 auto;
   background-color: #eeeff1;
   padding: 15px 0px 10px 0px;
 }
 
-/* line 45, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 44, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .grey {
   color: #EBEBEB !important;
 }
 
-/* line 49, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 48, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .browser-extension {
   color: #EBEBEB;
 }
-/* line 52, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 51, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .browser-extension:hover {
   color: #DF691A;
   transition: 0.25s;
   -webkit-transition: 0.25s;
 }
 
-/* line 61, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 60, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .navbar {
   font-size: 1.2rem;
 }
-/* line 64, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 63, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .navbar .navbar-brand {
   font-size: 1.5rem;
 }
 
-/* line 69, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 68, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .table {
   white-space: nowrap;
 }
 
-/* line 73, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 72, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .center-pills {
   display: flex;
   justify-content: center;
 }
 
-/* line 78, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 77, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .text-pre-wrap {
   white-space: pre-wrap;
   white-space: -moz-pre-wrap;
@@ -5508,32 +5508,32 @@ body {
   word-wrap: break-word;
 }
 
-/* line 88, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 87, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .dataTables_scroll {
   margin-bottom: 15px;
 }
 
-/* line 92, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 91, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 div.dataTables_wrapper div.dataTables_paginate {
   margin: 7px 5px 0 0;
 }
 
-/* line 98, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 97, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .overflow-x-auto {
   overflow-x: auto;
 }
 
-/* line 102, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 101, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .width-max-content {
   width: max-content;
 }
 
-/* line 106, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 105, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .lazyLoader {
   position: relative;
 }
 
-/* line 110, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 109, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .lazyLoader::before {
   content: "";
   position: absolute;
@@ -5548,7 +5548,7 @@ div.dataTables_wrapper div.dataTables_paginate {
   padding-top: 45%;
 }
 
-/* line 124, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 123, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .lazyLoader::after {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
@@ -5561,43 +5561,43 @@ div.dataTables_wrapper div.dataTables_paginate {
   animation: fa-spin 2s linear infinite;
 }
 
-/* line 136, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 135, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .dataTables_scroll .dataTables_scrollBody::-webkit-scrollbar-track, .dark-scrollbar::-webkit-scrollbar-track {
   -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
 }
 
-/* line 140, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 139, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .dataTables_scroll .dataTables_scrollBody::-webkit-scrollbar, .dark-scrollbar::-webkit-scrollbar {
   width: 12px;
   height: 8px;
 }
 
-/* line 145, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 144, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .dataTables_scroll .dataTables_scrollBody::-webkit-scrollbar-thumb, .dark-scrollbar::-webkit-scrollbar-thumb {
   -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
   background-color: #aaaaaa;
 }
 
-/* line 150, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 149, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 .dataTables_scroll .dataTables_scrollBody:hover::-webkit-scrollbar-thumb, .dark-scrollbar:hover::-webkit-scrollbar-thumb {
   background-color: #6d6b6b;
 }
 
-/* line 156, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 155, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.default-theme {
   background-color: #f8f9fa;
 }
-/* line 159, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 158, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.default-theme .navbar-toggler {
   color: #4b4c4c;
   border-color: #4b4c4c;
 }
-/* line 164, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 163, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.default-theme .navbar-toggler-icon {
   background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(75, 76, 76, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
 
-/* line 169, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 168, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.default-theme .navbar {
   background-color: #f8f9fa;
   box-shadow: -1px 0px 9px 0px #0000008a;
@@ -5605,53 +5605,53 @@ body.default-theme .navbar {
   padding: 1rem;
 }
 
-/* line 176, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 175, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.default-theme .navbar-brand {
   font-size: 1.5em;
 }
 
-/* line 180, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 179, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.default-theme .navbar a {
   color: #212529;
 }
 
-/* line 184, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 183, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.default-theme #sitesHolder {
   padding-bottom: 1.6rem;
   padding-top: 2.5rem;
 }
 
-/* line 189, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 188, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.default-theme .primary-dynamic-bg {
   background-color: #ffffff;
 }
 
-/* line 193, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 192, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.default-theme .in-24-hours {
   background: #007bff !important;
 }
 
-/* line 197, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 196, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.default-theme .in-24-hours:hover {
   background: #105fb5 !important;
 }
 
-/* line 201, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 200, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.default-theme .in-24-hours a:not(.add-to-calendar), body.default-theme .in-24-hours, body.default-theme .in-24-hours:hover {
   color: white;
 }
 
-/* line 205, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 204, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.default-theme .navbar .custom-control-label::before {
   height: 0.8rem;
 }
 
-/* line 209, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 208, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.default-theme .navbar .custom-switch .custom-control-label::before {
   width: 1.8rem;
 }
 
-/* line 213, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 212, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.default-theme .navbar .custom-switch .custom-control-label::after {
   top: calc(0.25rem + 2px);
   left: calc(-2.25rem + 4px);
@@ -5659,105 +5659,105 @@ body.default-theme .navbar .custom-switch .custom-control-label::after {
   height: calc(1rem - 8px);
 }
 
-/* line 220, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 219, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.default-theme .navbar .custom-switch {
   padding-left: 2.7rem;
 }
 
-/* line 224, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 223, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.default-theme .dataTables_wrapper table .add-to-calendar {
   border-color: #1a1a1a4d;
 }
 
-/* line 231, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 230, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.dark-theme .navbar-toggler {
   color: #8a8a8a;
   border-color: #8a8a8a;
 }
-/* line 236, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 235, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.dark-theme .navbar-toggler-icon {
   background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(138, 138, 138, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
 
-/* line 241, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 240, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.dark-theme .primary-dynamic-bg {
   color: white;
   background-color: #4b4c4c;
 }
 
-/* line 246, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 245, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.dark-theme a, body.dark-theme .table, body.dark-theme .text-black-50, body.dark-theme .dropdown-item {
   color: white !important;
 }
 
-/* line 250, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 249, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.dark-theme .dropdown-menu {
   background-color: #444646;
 }
 
-/* line 254, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 253, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.dark-theme .nav-pills .nav-link.active, body.dark-theme .nav-pills .show > .nav-link {
   background-color: #9f9f9f;
 }
 
-/* line 258, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 257, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.dark-theme, body.dark-theme #topNavbar, body.dark-theme .in-24-hours {
   background-color: #262727 !important;
 }
 
-/* line 262, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 261, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.dark-theme .in-24-hours:hover, body.dark-theme .btn-light {
   background-color: #1a1b1b !important;
 }
 
-/* line 266, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 265, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.dark-theme .border, body.dark-theme table.border thead {
   border: 1px solid #84888c !important;
 }
 
-/* line 270, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 269, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.dark-theme #footer {
   color: darkgray;
   background-color: #1a1b1b;
 }
 
-/* line 275, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 274, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.dark-theme .dropdown-item:hover, body.dark-theme .dropdown-item:focus {
   background-color: #686b6b;
 }
 
-/* line 279, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 278, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.dark-theme .dataTables_wrapper .dataTables_paginate a {
   background-color: #4b4c4c;
 }
 
-/* line 283, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 282, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.dark-theme .lazyLoader::before {
   background-color: #4b4c4c;
 }
 
-/* line 287, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 286, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.dark-theme .table-hover tbody tr:hover {
   color: white;
 }
 
-/* line 291, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 290, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.dark-theme .dataTables_wrapper .add-to-calendar {
   border-color: #d6e7f8 !important;
 }
 
-/* line 295, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+/* line 294, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
 body.dark-theme .our-team .social li a:hover {
   background: #262727;
 }
 
 @media only screen and (max-width: 768px) {
-  /* line 300, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+  /* line 299, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
   .dataTables_info, .dataTables_length {
     display: none;
   }
 
-  /* line 304, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
+  /* line 303, /mnt/c/Users/mnnit/Documents/New folder/kontests/app/assets/stylesheets/application.css.scss */
   .mobile-mt-3 {
     margin-top: 1rem;
   }

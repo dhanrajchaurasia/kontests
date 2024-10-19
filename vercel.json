@@ -1,0 +1,13 @@
+{
+    "build": {
+      "env": {
+        "BUNDLE_WITHOUT": "development:test"
+      }
+    },
+    "functions": {
+      "api/*.rb": {
+        "runtime": "vercel-ruby@0.1.0"
+      }
+    }
+  }
+  
